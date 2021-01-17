@@ -1,6 +1,6 @@
 # dina
 def my_superfunction():
-    print('What an awesome print!')
+    print('Hello yandex!')
 
 
 def main():
